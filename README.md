@@ -11,6 +11,7 @@ python的django框架 版本2.1.7<br>
 # 步骤2.
 node.js开发环境<br>
 在health_project_vue下，运行npm install安装依赖<br>
+然后npm run build 打包整个html页面
 
 # 步骤3.
 启动项目在manage.py 目录下,运行python manage.py runserver<br>
