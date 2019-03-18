@@ -12,3 +12,8 @@ python的django框架 版本2.1.7<br>
 
 # 步骤2.
 启动项目在manage.py 目录下,运行python manage.py runserver<br>
+
+后台:127.0.0.1:8000/admin<br>
+后台账户:admin<br>
+后台密码:admin123456<br>
+
