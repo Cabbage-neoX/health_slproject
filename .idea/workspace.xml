@@ -2,44 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2def2143-5644-4835-a890-822562290a12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/health_slproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/health_slproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/health_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/health_project/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_project_server/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/health_project_server/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_server/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/health_project_server/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/config/test.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/static/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/test/e2e/nightwatch.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/test/e2e/runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_project_vue/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_project_server/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/health_project_server/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,18 +22,20 @@
     <session id="1158656822">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
           <entry key="json" value="1" />
-          <entry key="md" value="1" />
-          <entry key="py" value="16" />
+          <entry key="md" value="2" />
+          <entry key="py" value="20" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
@@ -73,23 +43,23 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="1" />
-          <entry key="Python" value="16" />
+          <entry key="Markdown" value="2" />
+          <entry key="Python" value="20" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="77" />
-          <entry key="md" value="33" />
-          <entry key="py" value="285" />
+          <entry key="md" value="58" />
+          <entry key="py" value="1519" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="77" />
-          <entry key="Markdown" value="33" />
-          <entry key="Python" value="285" />
+          <entry key="Markdown" value="58" />
+          <entry key="Python" value="1519" />
         </counts>
       </usages-collector>
     </session>
@@ -99,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/health_project_server/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state>
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -120,8 +90,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/health_project/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            <state relative-caret-position="140">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/health_project_server/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="29" column="76" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+              <folding>
+                <marker date="1552910406088" expanded="true" signature="855:857" ph="..." />
+                <marker date="1552910406088" expanded="true" signature="896:901" ph="..." />
+                <marker date="1552910406088" expanded="true" signature="1348:1618" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health_project_server/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -129,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/health_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+            <state relative-caret-position="-364">
+              <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding>
                 <element signature="e#315#324#0" expanded="true" />
               </folding>
@@ -138,30 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/health_project_server/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/../Lib/site-packages/django/utils/functional.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4420#4426#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="149">
+              <caret line="213" selection-start-line="213" selection-end-line="213" />
             </state>
           </provider>
         </entry>
@@ -193,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/xadmin/xadmin/util.py" />
         <option value="$PROJECT_DIR$/xadmin/xadmin/models.py" />
         <option value="$PROJECT_DIR$/xadmin/xadmin/views/base.py" />
@@ -203,7 +179,9 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/health_project/urls.py" />
         <option value="$PROJECT_DIR$/health_project/settings.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/health_project_server/admin.py" />
+        <option value="$PROJECT_DIR$/health_project_server/models.py" />
       </list>
     </option>
   </component>
@@ -213,9 +191,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="295" />
-    <option name="y" value="80" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="285" />
+    <option name="y" value="90" />
     <option name="width" value="1390" />
     <option name="height" value="880" />
   </component>
@@ -259,7 +237,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -341,7 +319,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.2600536" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.26340482" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,99 +328,41 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/xadmin" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="392">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_project_vue/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/sites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-560">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/health_project_vue/package.json" />
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/sites.py" />
     <entry file="file://$PROJECT_DIR$/health_project/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/models.py" />
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/base.py" />
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/list.py" />
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/edit.py" />
+    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/util.py" />
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/wizard.py" />
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
+    <entry file="file://$PROJECT_DIR$/health_project_server/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/base.py">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/health_project_server/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state>
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/views/edit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/xadmin/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/wizard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_project_server/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/health_project_server/views.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -454,41 +374,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/meta.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4420#4426#0#HTML" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/health_project/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="140">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/django/utils/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/health_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        <state relative-caret-position="-364">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
           <folding>
             <element signature="e#315#324#0" expanded="true" />
           </folding>
@@ -498,7 +421,29 @@
     <entry file="file://$PROJECT_DIR$/health_project_server/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/django/db/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_project_server/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="29" column="76" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+          <folding>
+            <marker date="1552910406088" expanded="true" signature="855:857" ph="..." />
+            <marker date="1552910406088" expanded="true" signature="896:901" ph="..." />
+            <marker date="1552910406088" expanded="true" signature="1348:1618" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
