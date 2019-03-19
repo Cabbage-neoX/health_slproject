@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>登入页面</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<style type="text/css" media="screen">
+		.body,.div, .form, .img, .ul, .ol, .li, .dl, .dt, .dd, .form, .p {
+				margin: 0px;
+				padding: 0px;
+				border: 0px none;
+				list-style: none outside none;
+				text-decoration:none;
+				}
+		.body { height:100%; text-align:center;}
+		.form-group{
+			text-align:center;
+		    
+		}
+		.center-block { 
+		  	background-color: #fff;
+            /*边框*/
+            border: solid 1px rgba(102, 146, 191, 0.68);
+            /*边角弧度*/
+            border-radius: 5px;
+            /*阴影*/
+            box-shadow: 2px 2px 3px 6px grey;
+		  }
+		#footer {
+    background: #242E38;
+    padding: 18px 0;
+    color: #95A0AC;
+    line-height: 32px;
+    text-align: lefts;
+		}
+	</style>
+</head>
+<body>
+	<div>
+	<header>
+		<nav class="navbar navbar-default navbar-static-top navbar-inverse" style="size: 100%">
+            <div class="container-fluid">
+            	<div class="navbar-header">
+              		<button type="button" class="navbar-toggle">
+              			<span class="sr-only">navigator</span>
+              			<span class="icon-bar"></span>
+              			<span class="icon-bar"></span>
+              			<span class="icon-bar"></span>
+            		</button>
+      				<a class="navbar-brand" id="logo" title="open interface project" href="/">健康管理</a>
+         		 </div>
+         		 <div class="navbar-collapse navbar-collapse-pf-site collapse">
+     
+            		<ul id="menu-primary" class="nav navbar-nav navbar-left">
+              			<li>
+                			<a href="/1/">主页</a>
+             			</li>
+              			<li>
+               				 <a href="/2/">关于</a>
+              			</li>
+              			<li>
+                			<a href="/3/">博客</a>
+              			</li>
+              			<li>
+                			<a href="/4/">支持</a>
+              			</li>
+            		</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+            			<li><a href="/login" class="btn btn btn-outline-primary" style="color: #fff; background-color: #00AFD7; border-color: #00AFD7;">登入</a></li>
+            			<li><a href="/signup" class="btn btn btn-outline-primary" style="color: #fff; background-color: #5bc0de; border-color: #5bc0de;">免费注册</a></li>
+       				</ul>
+          		</div>
+        	</div>
+      	</nav>
+	 </header><!-- /header -->
+    </div>
+
+   <div style="background-image:url(image/VCG21403926722.jpg);background-position:0 0;padding:105px;background-repeat:no-repeat;background-size:100% 100%;background-attachment: fixed;">
+	<main id="main" >
+		<div class="center-block" style="width: 400px; padding-top: 65px; padding-bottom: 65px; float: middle;">
+		    <form action="" method="get" accept-charset="utf-8">	
+		    	<!-- action="" 数据提交地址-->
+			<h3 class="text-center" style=""><strong>欢迎回来</strong></h3>
+			<div style="">
+				
+			<div class="row">
+				<div class="col-md-12">
+					<form role="form" style="">
+						<div class="form-group" >
+							 
+							<label for="Input">
+								登入账号: 
+							</label>
+							
+							<input type="text" name="loginname" class="form-control" id="Input" style="width: 70%;display:inline-block;" />
+							<!-- 提交至服务器的登录名  name=""-->
+						</div>
+						<div class="form-group">
+							 
+							<label for="InputPassword1" style="width: 60px;">
+								密码: 
+							</label>
+							<input type="password" name="password" class="form-control" id="InputPassword1" style="width: 70%;display:inline-block;" />
+							<!-- 提交至服务器的密码  name=""-->
+						</div>
+						<div class="form-group">
+							 
+						<!--<label for="exampleInputFile">
+								导入文件
+							</label>
+							<input type="file" class="form-control-file" id="exampleInputFile" />
+							<p class="help-block">
+								Example block-level help text here.
+							</p>
+						</div>
+						<div class="checkbox">
+							 
+							<label>
+								<input type="checkbox" /> Check me out
+							</label>
+						</div> -->
+						<div class="kind_people" style="font-family:SimHei;">
+							<input type="radio" name="sex" value="医生">我是医生
+							<input type="radio" name="sex" value="用户">我是用户
+						</div>
+						
+						<div style="padding-top: 20px">
+							<button type="submit" class="btn btn-primary">
+							提交
+							</button>
+						</div>
+						
+
+						<div style="padding-top: 20px;font-family:SimHei;"></div>
+						<div class="text-center">
+						<p>还没有账号</p>
+						<p><a href="/signup">创建账号</a></p>
+						<p><a href="/seeback">忘记密码</a></p>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+			</div>
+		</div>
+    
+	</main>
+	
+	</div>
+	
+	<div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            Copyright © 2019 USST--2017
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
